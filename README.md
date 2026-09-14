@@ -1,2 +1,2 @@
-# najwan-resolusi
+# my-resolusi
 repository unutk menyimpan rencana kedepan

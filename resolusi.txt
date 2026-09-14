@@ -1,0 +1,3 @@
+pahami algortima dan databe
+buat kalkulator sederhana
+buat web sederhana
